@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         				= "WWAirTableAPI"
-  s.version      				= "0.0.1"
+  s.version      				= "0.0.3"
   s.summary      				= "WWAirTableAPI is sample API for AirTable. (簡易型基本的)"
   s.homepage     				= "https://github.com/William-Weng/WWAirTableAPI"
   s.license      				= { :type => "MIT", :file => "LICENSE" }
