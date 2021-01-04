@@ -1,11 +1,11 @@
 # WWAirTableAPI
 簡易基本款的AirTableAPI (上傳至Cocoapods)
 
-[![Swift 5.0](https://img.shields.io/badge/Swift-5.0-orange.svg?style=flat)](https://developer.apple.com/swift/) [![Version](https://img.shields.io/cocoapods/v/WWAirTableAPI.svg?style=flat)](http://cocoapods.org/pods/WWRadioButton) [![Platform](https://img.shields.io/cocoapods/p/WWRadioButton.svg?style=flat)](http://cocoapods.org/pods/WWRadioButton) [![License](https://img.shields.io/cocoapods/l/WWRadioButton.svg?style=flat)](http://cocoapods.org/pods/WWRadioButton)
+[![Swift 5.0](https://img.shields.io/badge/Swift-5.0-orange.svg?style=flat)](https://developer.apple.com/swift/) [![Version](https://img.shields.io/cocoapods/v/WWAirTableAPI.svg?style=flat)](http://cocoapods.org/pods/WWAirTableAPI) [![Platform](https://img.shields.io/cocoapods/p/WWRadioButton.svg?style=flat)](http://cocoapods.org/pods/WWRadioButton) [![License](https://img.shields.io/cocoapods/l/WWRadioButton.svg?style=flat)](http://cocoapods.org/pods/WWAirTableAPI)
 
 ![簡易基本款的AirTableAPI (上傳至Cocoapods)](https://raw.githubusercontent.com/William-Weng/WWAirTableAPI/main/WWAirTableAPI.gif)
 
-# [使用範例 - DEMO](https://github.com/William-Weng/Cocoapods/WWAirTableAPI)
+# [使用範例 - DEMO](https://github.com/William-Weng/Cocoapods/tree/master/AirTableAPI)
 
 ```swift
 import UIKit
