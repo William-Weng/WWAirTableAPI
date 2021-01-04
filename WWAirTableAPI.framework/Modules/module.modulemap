@@ -1,0 +1,11 @@
+framework module WWAirTableAPI {
+  umbrella header "WWAirTableAPI.h"
+
+  export *
+  module * { export * }
+}
+
+module WWAirTableAPI.Swift {
+    header "WWAirTableAPI-Swift.h"
+    requires objc
+}
